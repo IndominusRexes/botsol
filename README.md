@@ -39,7 +39,7 @@ Follow these steps to deploy and run your own trading bot:
 
 ## 🔗 Connect With Me
 
-- 📬 [Telegram](https://t.me/DemetrioLanter)
+- 📬 [Telegram](https://t.me/IndominusRexes)
 
 ---
 
